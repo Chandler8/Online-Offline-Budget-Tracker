@@ -2,18 +2,22 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-TBD
+The following application is meant for tracking and keeping up with your budgets, whether online or offline. Users can create and customize their budget as they see fit, whether it is adding large singular purchases or subtracting many smaller values. We also display the total over time using an easy to read and simplistic UI graph. This application utilizes technologies and NoSQL database elements such as; Node.js, MongoDB, HTML, CSS, JavaScript, and others. To view the deployed application, please click on the following link:
 
 ## Features
 
 A few of the things you can do with Budget Tracker:
 
-* TBD
+* Name unique transactions along with giving these transactions numerical values.
+* Add funds to a dynamic sum total value of money.
+* Subtract funds from a dynamic sum total value of money.
 
 ## User Story
 
 ```
-AS a user
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
 
 ```
 
