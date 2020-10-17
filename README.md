@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-The following application is meant for tracking and keeping up with your budgets, whether online or offline. Users can create and customize their budget as they see fit, whether it is adding large singular purchases or subtracting many smaller values. We also display the total over time using an easy to read and simplistic UI graph. This application utilizes technologies and NoSQL database elements such as; Node.js, MongoDB, HTML, CSS, JavaScript, and others. To view the deployed application, please click on the following link:
+The following application is meant for tracking and keeping up with your budgets, whether online or offline. Users can create and customize their budget as they see fit, whether it is adding large singular purchases or subtracting many smaller values. We also display the total over time using an easy to read and simplistic UI graph. This application utilizes technologies and NoSQL database elements such as; Node.js, MongoDB, HTML, CSS, JavaScript, and others. To view the deployed application, please click on the following link: https://mighty-depths-76606.herokuapp.com/
 
 ## Features
 
@@ -11,6 +11,7 @@ A few of the things you can do with Budget Tracker:
 * Name unique transactions along with giving these transactions numerical values.
 * Add funds to a dynamic sum total value of money.
 * Subtract funds from a dynamic sum total value of money.
+* Enjoy full functionality whether online or offline.
 
 ## User Story
 
@@ -62,5 +63,5 @@ Reach out to me via email regarding any questions or concerns with this project:
 
 # Media
 
-![]()
-![]()
+![](public\images\budget2.jpg)
+![](public\images\budget1.JPG)
