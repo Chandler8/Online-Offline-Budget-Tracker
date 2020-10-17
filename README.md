@@ -63,5 +63,5 @@ Reach out to me via email regarding any questions or concerns with this project:
 
 # Media
 
-![](public\images\budget2.jpg)
-![](public\images\budget1.JPG)
+![](/images/budget2.JPG)
+![](/images/budget1.JPG)
