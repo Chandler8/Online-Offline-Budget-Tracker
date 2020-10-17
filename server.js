@@ -15,8 +15,10 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/budget", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://chan:Teddy@cluster0.fyeff.mongodb.net/budget?retryWrites=true&w=majority", {
   useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
   useFindAndModify: false
 });
 
